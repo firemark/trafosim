@@ -3,8 +3,8 @@ import GameScene from './scenes/game';
 
 let config = {
     type: Phaser.AUTO,
-    width: 800,
-    height: 600,
+    width: 1300,
+    height: 700,
     backgroundColor: 0x3AA655,
     scene: [GameScene],
 }
