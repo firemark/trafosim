@@ -1,3 +1,5 @@
 node_modules/
 yarn-error.log
 spa/dist
+spa/assets/tilesets
+spa/assets/map.json
